@@ -1,0 +1,26 @@
+{
+  "name": "arabicref",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mashuq/arabicref.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mashuq/arabicref/issues"
+  },
+  "homepage": "https://github.com/mashuq/arabicref#readme",
+  "devDependencies": {
+    "vuepress": "^1.6.0"
+  }
+}

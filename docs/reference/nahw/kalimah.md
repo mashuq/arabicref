@@ -6,4 +6,4 @@ Words of Arabic Language are divided into 3 types.
 
 2. Fi'l (الفعل) or Verb
 
-3. Harf (الحَرف) or Particle
+3. [Harf (الحَرف)](/reference/nahw/harf/) or Particle

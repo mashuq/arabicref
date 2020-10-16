@@ -1,9 +1,11 @@
 # Kalimah (الكَلِمَة) or Word
 
-Words of Arabic Language are divided into 3 types. 
+Word (الكَلِمَة) is a utterance (لَفظ) which is coined and has a single meaning. 
 
-1. Ism (الإ سم) or Noun
+الكَلِمَة of Arabic Language are divided into 3 types. 
 
-2. Fi'l (الفعل) or Verb
+1. [Ism (الإسم)](/reference/nahw/ism/) or Uber Noun
 
-3. Harf (الحَرف) or Particle
+2. [Fi'l (الفعل)](/reference/nahw/fil/) or Verb
+
+3. [Harf (الحَرف)](/reference/nahw/harf/) or Particle

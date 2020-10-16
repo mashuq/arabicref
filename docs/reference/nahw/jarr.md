@@ -1,0 +1,1 @@
+# Jarr (الجَرّ) / Khafdh (الخَفْض) or Genitive Case, AKA Majrur (مَجرور)

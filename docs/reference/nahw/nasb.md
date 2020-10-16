@@ -1,0 +1,1 @@
+# Nasb (النَصْب) or Accusative/Subjunctive Case, AKA Mansub (مَنصوب)

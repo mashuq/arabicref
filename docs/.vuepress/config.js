@@ -1,4 +1,6 @@
 const { description } = require('../../package')
+const fs = require("fs");
+const path = require("path");
 
 module.exports = {
   /**
@@ -39,18 +41,38 @@ module.exports = {
       }
     ],
     sidebar: [
-      '/reference/',
       {
-        title: 'Nahw',   // required
-        path: '/reference/nahw/',      // optional, link of the title, which should be an absolute path and must exist
-        collapsable: false, // optional, defaults to true
-        sidebarDepth: 1,    // optional, defaults to 1
+        title: 'Nahw',
+        path: '/reference/nahw/',
+        collapsable: true,
         children: [
-          '/reference/nahw/kalimah'
+           {
+              title: 'Kalimah (الكَلِمَة) or Word',
+              path: '/reference/nahw/kalimah',
+              collapsable: false,
+              children: [
+                '/reference/nahw/ism',
+                '/reference/nahw/fil',
+                '/reference/nahw/harf',
+              ]
+           },
+           {
+            title: 'I\'rab (الإعراب) or Cases',
+            path: '/reference/nahw/irab',
+            collapsable: false,
+            children: [
+              '/reference/nahw/rafa',
+              '/reference/nahw/nasb',
+              '/reference/nahw/jarr',
+              '/reference/nahw/jazm',
+            ]
+         }
         ]
-      },
-    ],    
-  },
+     }, 
+
+
+    ],
+   },
 
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
@@ -60,3 +82,5 @@ module.exports = {
     '@vuepress/plugin-medium-zoom',
   ]
 }
+
+

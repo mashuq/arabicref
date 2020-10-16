@@ -1,0 +1,1 @@
+# Jazm (الجَزْم) or Jussive Case, AKA Majzum (مَجزوم)

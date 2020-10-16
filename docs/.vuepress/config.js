@@ -40,20 +40,38 @@ module.exports = {
         link: '/reference/',
       }
     ],
-    sidebar: {
-        "/reference/nahw/index/": getSideBar(
-          "/reference/nahw/",
-          "Nahw"
-        ),
-        "/reference/sarf/": getSideBar(
-          "/reference/sarf/",
-          "Sarf"
-        ),
-        "/reference/balaghah/": getSideBar(
-          "/reference/balaghah/",
-          "Balaghah"
-        ),
-      },
+    sidebar: [
+      {
+        title: 'Nahw',
+        path: '/reference/nahw/',
+        collapsable: true,
+        children: [
+           {
+              title: 'Kalimah (الكَلِمَة) or Word',
+              path: '/reference/nahw/kalimah',
+              collapsable: false,
+              children: [
+                '/reference/nahw/ism',
+                '/reference/nahw/fil',
+                '/reference/nahw/harf',
+              ]
+           },
+           {
+            title: 'I\'rab (الإعراب) or Cases',
+            path: '/reference/nahw/irab',
+            collapsable: false,
+            children: [
+              '/reference/nahw/rafa',
+              '/reference/nahw/nasb',
+              '/reference/nahw/jarr',
+              '/reference/nahw/jazm',
+            ]
+         }
+        ]
+     }, 
+
+
+    ],
    },
 
   /**
@@ -65,19 +83,4 @@ module.exports = {
   ]
 }
 
-
-function getSideBar(folder, title) {
-  const extension = [".md"];
-
-  const files = fs
-    .readdirSync(path.join(`${__dirname}/../${folder}`))
-    .filter(
-      (item) =>
-        item.toLowerCase() != "index.md" &&
-        fs.statSync(path.join(`${__dirname}/../${folder}`, item)).isFile() &&
-        extension.includes(path.extname(item))
-    );
-
-  return [{ title: title, children: ["", ...files] }];
-}
 

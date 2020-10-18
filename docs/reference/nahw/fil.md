@@ -1,9 +1,9 @@
-# Fi'l (الفعل) or Verb
+# الفعل Verb
 
-Fi'l (الفعل) is a [Kalimah (الكَلِمَة)](/reference/nahw/kalimah/) which has a meaning in and of itself and ascribes to the 3 tenses. It corresponds directly to the English verb. 
+الفعل is a [Kalimah الكَلِمَة](/reference/nahw/kalimah/) which has a meaning in and of itself and ascribes to the 3 tenses. It corresponds directly to the English verb. 
 
 
-## Signs of الفعل
+## Exclusive Signs of الفعل
 
 1. يصحّ الإخبار بِهِ
 

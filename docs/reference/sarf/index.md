@@ -1,1 +1,1 @@
-# Sarf (الصَرف) or Morphology
+# الصَرف Morphology

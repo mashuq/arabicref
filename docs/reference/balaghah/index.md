@@ -1,1 +1,1 @@
-# Balaghah (البلاغة) or Rhetoric
+# البلاغة Rhetoric

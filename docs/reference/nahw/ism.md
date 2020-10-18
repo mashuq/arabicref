@@ -1,13 +1,13 @@
-# Ism (الإسم) or Uber Noun
+# الإسم Uber Noun
 
-Ism (الإسم) is a [Kalimah (الكَلِمَة)](/reference/nahw/kalimah/) which has a meaning in and of itself, but do not ascribe to the 3 tenses. The English parts of speech: Noun, Pronoun, Adverb and Adjective all are included in the arabic الإسم. 
+الإسم is a [Kalimah الكَلِمَة](/reference/nahw/kalimah/) which has a meaning in and of itself, but do not ascribe to the 3 tenses. The English parts of speech: Noun, Pronoun, Adverb and Adjective all are included in the arabic الإسم. 
 
 
-## Signs of الإسم
+## Exclusive Signs of الإسم
 
 1. يصحّ الإخبار عنه
 
-2. (ألإضافة) ضَافٌ and مُضَافٌ إِلَيْهِ 
+2. ألإضافة ضَافٌ and مُضَافٌ إِلَيْهِ 
 
 3. لام التعريف
 

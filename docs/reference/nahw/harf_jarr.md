@@ -1,6 +1,6 @@
-# Harf Jarr (حَرْفُ الْجَرِّ) or Prepositions
+# حَرْفُ الْجَرِّ Prepositions
 
-These are words that induce Jarr (جَرّ) or Genitive Case to the word after it. 
+These are [الحَرف](/reference/nahw/harf/) that gives [الجَرّ](/reference/nahw/jarr/) to the [الإسم](/reference/nahw/ism/) after it. 
 
 There 17 of those: 
 

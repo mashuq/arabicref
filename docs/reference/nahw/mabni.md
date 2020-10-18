@@ -1,1 +1,1 @@
-# Mabni (المبني) or Change Restricted Words
+# المبني Change Restricted Words

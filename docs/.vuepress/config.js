@@ -42,22 +42,12 @@ module.exports = {
     ],
     sidebar: [
       {
-        title: 'Nahw',
+        title: 'النَحو Grammar',
         path: '/reference/nahw/',
         collapsable: true,
         children: [
-           {
-              title: 'Kalimah (الكَلِمَة) or Word',
-              path: '/reference/nahw/kalimah',
-              collapsable: false,
-              children: [
-                '/reference/nahw/ism',
-                '/reference/nahw/fil',
-                '/reference/nahw/harf',
-              ]
-           },
-           {
-            title: 'I\'rab (الإعراب) or Cases',
+          {
+            title: 'الإعراب Cases',
             path: '/reference/nahw/irab',
             collapsable: false,
             children: [
@@ -66,13 +56,32 @@ module.exports = {
               '/reference/nahw/jarr',
               '/reference/nahw/jazm',
             ]
-         }
+          },
+          {
+            title: 'الكَلِمَة Word',
+            path: '/reference/nahw/kalimah',
+            collapsable: false,
+            children: [
+              '/reference/nahw/ism',
+              '/reference/nahw/fil',
+              '/reference/nahw/harf',
+            ]
+          },
+          {
+            title: 'الكَلام Sentence',
+            path: '/reference/nahw/kalimah',
+            collapsable: false,
+            children: [
+              '/reference/nahw/joomla_ismia',
+              '/reference/nahw/joomla_filia',
+            ]
+          },
         ]
-     }, 
+      },
 
 
     ],
-   },
+  },
 
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/

@@ -1,11 +1,11 @@
-# Kalimah (الكَلِمَة) or Word
+# الكَلِمَة Word
 
-Word (الكَلِمَة) is a utterance (لَفظ) which is coined and has a single meaning. 
+الكَلِمَة is a لَفظ utterance which is coined and has a single meaning. 
 
 الكَلِمَة of Arabic Language are divided into 3 types. 
 
-1. [Ism (الإسم)](/reference/nahw/ism/) or Uber Noun
+1. [الإسم](/reference/nahw/ism/) Uber Noun
 
-2. [Fi'l (الفعل)](/reference/nahw/fil/) or Verb
+2. [الفعل](/reference/nahw/fil/) Verb
 
-3. [Harf (الحَرف)](/reference/nahw/harf/) or Particle
+3. [الحَرف](/reference/nahw/harf/) Particle

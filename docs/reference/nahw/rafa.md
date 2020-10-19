@@ -24,13 +24,13 @@ Usually the subject of a sentence a verb is in الرَفْع.
 
 2. المَفعُولُ الذِي لَم يُسَمَّ فاعِلُه/ نائب الفاعِل
 
-3. ‬‬المُبتَدَأ
+3. [مُبْتَدَأ](/reference/nahw/mubtada/)
 
-4. الخَبَر
+4. [الخَبَر](/reference/nahw/khabar/)
 
-5. إِسْمٌ كان وأخواتها
+5. إِسْمٌ [كان وأخواتها](/reference/nahw/kaana_akhawatiha)
 
-6. خَبَر إنّ وأخواتها 
+6. خَبَر [إنّ وأخواتها](/reference/nahw/inna_akhawatiha)
 
 7. إِسْمٌ ما و لا المشبهتين بـليس 
 

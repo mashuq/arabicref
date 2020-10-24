@@ -1,14 +1,14 @@
-# مَنصوب / النَصْب Accusative/Subjunctive Case
+# مَنصوب / نَصْب Accusative/Subjunctive Case
 
-Usually the object of a verb is in النَصْب. 
+Usually the object of a verb is in نَصْب. 
 
 ::: tip
-[الإسم](/reference/nahw/ism/) and [الفعل](/reference/nahw/fil/) both can be مَنصوب
+[إسم](/reference/nahw/ism/) and [فعل](/reference/nahw/fil/) both can be مَنصوب
 :::
 
-## How النَصْب is reflected
+## How نَصْب is reflected
 
-النَصْب is Reflected on [الكَلِمَة](/reference/nahw/kalimah/) the following 5 ways: 
+نَصْب is Reflected on [كَلِمَة](/reference/nahw/kalimah/) the following 5 ways: 
 
 1. فتحة / ـَ Fathah
 
@@ -20,7 +20,7 @@ Usually the object of a verb is in النَصْب.
 
 5. حَذف نُون Hadhf Nun
 
-## The places where a [الإسم](/reference/nahw/ism/) assumes النَصْب
+## The places where a [إسم](/reference/nahw/ism/) assumes نَصْب
 
 1. مَفْعُوْل بِهِ
 

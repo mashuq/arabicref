@@ -47,7 +47,7 @@ module.exports = {
         collapsable: true,
         children: [
           {
-            title: 'الإعراب Cases',
+            title: 'إعراب Cases',
             path: '/reference/nahw/irab',
             collapsable: false,
             children: [
@@ -58,17 +58,40 @@ module.exports = {
             ]
           },
           {
-            title: 'الكَلِمَة Word',
+            title: 'كَلِمَة Word',
             path: '/reference/nahw/kalimah',
             collapsable: false,
+            initialOpenGroupIndex: -1,
             children: [
-              '/reference/nahw/ism',
+              {
+                title: 'إسم Uber Noun',
+                path: '/reference/nahw/ism',
+                collapsable: true,
+                children: [
+                  {
+                    title: 'النَّكِرَةُ أو الْمَعْرِفَةُ Indefinite / Definite',
+                    collapsable: false,
+                    children: [
+                      '/reference/nahw/marifa',
+                      '/reference/nahw/nakira',
+                    ]
+                  },   
+                  {
+                    title: 'مُذَكَّر أو مُؤَنَّث Masculine / Feminine',
+                    collapsable: false,
+                    children: [
+                      '/reference/nahw/mudhakkar',
+                      '/reference/nahw/muannas',
+                    ]
+                  },                  
+                ],
+              }, 
               '/reference/nahw/fil',
               '/reference/nahw/harf',
             ]
           },
           {
-            title: 'الكَلام Sentence',
+            title: 'كَلام Sentence',
             path: '/reference/nahw/kalimah',
             collapsable: false,
             children: [

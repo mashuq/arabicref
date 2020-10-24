@@ -1,14 +1,14 @@
-# مخفوض / الخَفْض / مَجرور / الجَرّ Genitive Case 
+# مخفوض / خَفْض / مَجرور / جَرّ Genitive Case 
 
-Usually the owned linked nouns are in الجَرّ. 
+Usually the owned linked nouns are in جَرّ. 
 
 ::: tip
-Only [الإسم](/reference/nahw/ism/) can be مَجرور
+Only [إسم](/reference/nahw/ism/) can be مَجرور
 :::
 
-## How الجَرّ is reflected
+## How جَرّ is reflected
 
-الجَرّ is Reflected on [الكَلِمَة](/reference/nahw/kalimah/) the following 3 ways: 
+جَرّ is Reflected on [كَلِمَة](/reference/nahw/kalimah/) the following 3 ways: 
 
 1. كسرة / ـِ Kasrah
 
@@ -16,7 +16,7 @@ Only [الإسم](/reference/nahw/ism/) can be مَجرور
 
 3. فتحة / ـَ Fathah
 
-## The places where a [الإسم](/reference/nahw/ism/) assumes الجَرّ
+## The places where a [إسم](/reference/nahw/ism/) assumes جَرّ
 
 1. مَجرور
 

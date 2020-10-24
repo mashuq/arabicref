@@ -1,1 +1,1 @@
-# الجملة الاسمية Nominal Sentence
+# جملة الاسمية Nominal Sentence

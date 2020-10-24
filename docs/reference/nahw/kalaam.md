@@ -1,16 +1,16 @@
-# الكَلام Sentence
+# كَلام Sentence
 
-الكَلام is a لَفظ *utterance* in the Arabic Language which is مُرکَّب *compound*, i.e. made up of 2 or more [الكَلِمَة](/reference/nahw/kalimah), مفيد *beneficial* i.e. silence is appropiate after it and according to the rules laid out according to the rules of Arabic Language. In other words its a sentence. 
+كَلام is a لَفظ *utterance* in the Arabic Language which is مُرکَّب *compound*, i.e. made up of 2 or more [كَلِمَة](/reference/nahw/kalimah), مفيد *beneficial* i.e. silence is appropiate after it and according to the rules laid out according to the rules of Arabic Language. In other words its a sentence. 
 
-To be complete a الكَلام, it **MUST** have a المسند إليه *subject* and المسند *object*. It may **OPTIONALLY** have فضلة *extra*. 
+To be complete a كَلام, it **MUST** have a مسند إليه *subject* and مسند *object*. It may **OPTIONALLY** have فضلة *extra*. 
 
-## Primary Types of الكَلام
+## Primary Types of كَلام
 
-الكَلام is of 2 types: 
+كَلام is of 2 types: 
 
-1. [الجملة الاسمية](/reference/nahw/joomla_ismia/) Nominal Sentence
+1. [جملة الاسمية](/reference/nahw/joomla_ismia/) Nominal Sentence
 
-2. [الجملة الفعلية](/reference/nahw/joomla_filia/) Verbal Sentence
+2. [جملة فعلية](/reference/nahw/joomla_filia/) Verbal Sentence
 
 
 

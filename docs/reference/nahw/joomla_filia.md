@@ -1,2 +1,2 @@
-# الجملة الفعلية Verbal Sentence
+# جملة فعلية Verbal Sentence
 

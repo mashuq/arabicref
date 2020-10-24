@@ -1,10 +1,10 @@
 # إنّ وأخواتها
 
-When إنّ or one of its sisters comes infront of a [الجملة الاسمية](/reference/nahw/joomla_ismia/):
+When إنّ or one of its sisters comes infront of a [جملة الاسمية](/reference/nahw/joomla_ismia/):
 
-it makes it's [مُبْتَدَأ](/reference/nahw/mubtada/) into [النَصْب](/reference/nahw/nasb/) state
+it makes it's [مُبْتَدَأ](/reference/nahw/mubtada/) into [نَصْب](/reference/nahw/nasb/) state
 
-it makes it's [خَبَر](/reference/nahw/khabar/) into [الرَفْع](/reference/nahw/rafa/) state
+it makes it's [خَبَر](/reference/nahw/khabar/) into [رَفْع](/reference/nahw/rafa/) state
 
 ## Sisters of إنّ
 

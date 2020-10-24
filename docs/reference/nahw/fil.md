@@ -1,9 +1,9 @@
-# الفعل Verb
+# فعل Verb
 
-الفعل is a [Kalimah الكَلِمَة](/reference/nahw/kalimah/) which has a meaning in and of itself and ascribes to the 3 tenses. It corresponds directly to the English verb. 
+فعل is a [Kalimah كَلِمَة](/reference/nahw/kalimah/) which has a meaning in and of itself and ascribes to the 3 tenses. It corresponds directly to the English verb. The plural of فِعْلٌ is أَفْعَالٌ. 
 
 
-## Exclusive Signs of الفعل
+## Exclusive Signs of فعل
 
 1. يصحّ الإخبار بِهِ
 

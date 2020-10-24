@@ -1,1 +1,1 @@
-# المعمول Governed Word
+# معمول Governed Word

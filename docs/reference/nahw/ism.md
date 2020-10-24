@@ -1,9 +1,9 @@
-# الإسم Uber Noun
+# إسم Uber Noun
 
-الإسم is a [Kalimah الكَلِمَة](/reference/nahw/kalimah/) which has a meaning in and of itself, but do not ascribe to the 3 tenses. The English parts of speech: Noun, Pronoun, Adverb and Adjective all are included in the arabic الإسم. 
+إسم is a [Kalimah كَلِمَة](/reference/nahw/kalimah/) which has a meaning in and of itself, but do not ascribe to the 3 tenses. The English parts of speech: Noun, Pronoun, Adverb and Adjective all are included in the arabic إسم. The plural of اِسْمٌ is أَسْمَاءٌ. 
 
 
-## Exclusive Signs of الإسم
+## Exclusive Signs of إسم
 
 1. يصحّ الإخبار عنه
 
@@ -37,21 +37,13 @@
 
 16. جامِد
 
-## Classification of الإسم according to جنس تذكير أو تأنيث *Gender*
+## Classification of إسم according to جنس تذكير أو تأنيث *Gender*
 
-1. مُذَكَّر *Masculine*
+1. [مُذَكَّر](/reference/nahw/mudhakkar/) *Masculine*
 
-2. مُؤَنَّث *Feminine*
+2. [مُؤَنَّث](/reference/nahw/muannas/) *Feminine*
 
-## Classification of الإسم according to الجمود والإشتقاق *Origin*
-
-1. جَامِد *Coined*
-
-2. مَصْدَرٌ *Source*
-
-3. مُشْتَقٌ *Derived*
-
-## Classification of الإسم according to العدد *Number*
+## Classification of إسم according to العدد *Number*
 
 1. مُفْرَدٌ *Singular*
 
@@ -59,15 +51,22 @@
 
 3. جَمعُ *Plural*
 
-## Classification of الإسم according to النَّكِرَةُ أو الْمَعْرِفَةُ *Definite / Indefiniten*
+## Classification of إسم according to النَّكِرَةُ أو الْمَعْرِفَةُ *Definite / Indefiniten*
 
-1. مَعْرِفَة *Definite*
+1. [مَعْرِفَة](/reference/nahw/marifa/) *Definite*
 
-2. نَكِرَة *Indefinite*
+2. [نَكِرَة](/reference/nahw/nakira/) *Indefinite*
 
-## Classification of الإسم according to العقل *Intellect*
+## Classification of إسم according to العقل *Intellect*
 
 1. عَاقِل *With Intellect*
 
 2. غَير عَاقِل *Without Intellect*
 
+## Classification of إسم according to الجمود والإشتقاق *Origin*
+
+1. جَامِد *Coined*
+
+2. مَصْدَرٌ *Source*
+
+3. مُشْتَقٌ *Derived*

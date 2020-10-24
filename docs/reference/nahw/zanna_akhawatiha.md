@@ -1,10 +1,10 @@
 # ظَنَّ وأخواتها Zanna and Her Sisters
 
-When ظَنَّ or one of its sisters comes infront of a [الجملة الاسمية](/reference/nahw/joomla_ismia/):
+When ظَنَّ or one of its sisters comes infront of a [جملة الاسمية](/reference/nahw/joomla_ismia/):
 
-it makes it's [مُبْتَدَأ](/reference/nahw/mubtada/) into [النَصْب](/reference/nahw/nasb/) state
+it makes it's [مُبْتَدَأ](/reference/nahw/mubtada/) into [نَصْب](/reference/nahw/nasb/) state
 
-it makes it's [خَبَر](/reference/nahw/khabar/) into [النَصْب](/reference/nahw/nasb/) state
+it makes it's [خَبَر](/reference/nahw/khabar/) into [نَصْب](/reference/nahw/nasb/) state
 
 ## Sisters of ظَنَّ
 

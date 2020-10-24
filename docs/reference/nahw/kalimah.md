@@ -1,11 +1,11 @@
-# الكَلِمَة Word
+# كَلِمَة Word
 
-الكَلِمَة is a لَفظ utterance which is coined and has a single meaning. 
+كَلِمَة is a لَفظ utterance which is coined and has a single meaning. The plural of كَلِمَة is كَلِمَاتٌ.
 
-الكَلِمَة of Arabic Language are divided into 3 types. 
+كَلِمَة of Arabic Language are divided into 3 types. 
 
-1. [الإسم](/reference/nahw/ism/) Uber Noun
+1. [إسم](/reference/nahw/ism/) Uber Noun
 
-2. [الفعل](/reference/nahw/fil/) Verb
+2. [فعل](/reference/nahw/fil/) Verb
 
-3. [الحَرف](/reference/nahw/harf/) Particle
+3. [حَرف](/reference/nahw/harf/) Particle

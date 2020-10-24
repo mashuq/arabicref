@@ -1,14 +1,14 @@
-# مَرْفُوع / الرَفْع Nominative Case 
+# مَرْفُوع / رَفْع Nominative Case 
 
-Usually the subject of a sentence a verb is in الرَفْع. 
+Usually the subject of a sentence a verb is in رَفْع. 
 
 ::: tip
-[الإسم](/reference/nahw/ism/) and [الفعل](/reference/nahw/fil/) both can be مَرْفُوع
+[إسم](/reference/nahw/ism/) and [فعل](/reference/nahw/fil/) both can be مَرْفُوع
 :::
 
-## How الرَفْع is reflected
+## How رَفْع is reflected
 
-الرَفْع is Reflected on [الكَلِمَة](/reference/nahw/kalimah/) the following 4 ways: 
+رَفْع is Reflected on [كَلِمَة](/reference/nahw/kalimah/) the following 4 ways: 
 
 1. ضمّة / ـُ Dammah
 
@@ -18,7 +18,7 @@ Usually the subject of a sentence a verb is in الرَفْع.
 
 4. نُون / ن Nun
 
-## The places where a [الإسم](/reference/nahw/ism/) assumes الرَفْع
+## The places where a [إسم](/reference/nahw/ism/) assumes رَفْع
 
 1. الفاعِل
 

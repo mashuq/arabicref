@@ -1,6 +1,6 @@
 # حَرْفُ الْجَرِّ Prepositions
 
-These are [الحَرف](/reference/nahw/harf/) that gives [الجَرّ](/reference/nahw/jarr/) to the [الإسم](/reference/nahw/ism/) after it. 
+These are [حَرف](/reference/nahw/harf/) that gives [جَرّ](/reference/nahw/jarr/) to the [إسم](/reference/nahw/ism/) after it. 
 
 There 17 of those: 
 

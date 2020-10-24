@@ -1,13 +1,13 @@
-# مَجزوم / الجَزْم Jussive Case 
+# مَجزوم / جَزْم Jussive Case 
 
 ::: tip
-Only [الفعل](/reference/nahw/fil/) can be مَجزوم
+Only [فعل](/reference/nahw/fil/) can be مَجزوم
 :::
 
-## How النَصْب is reflected
+## How نَصْب is reflected
 
-الجَزْم is Reflected on [الكَلِمَة](/reference/nahw/kalimah/) the following 2 ways: 
+جَزْم is Reflected on [كَلِمَة](/reference/nahw/kalimah/) the following 2 ways: 
 
-1. السُـكون / ـْ Sukoon
+1. سُـكون / ـْ Sukoon
 
 5. حَذف نُون Hadhf Nun

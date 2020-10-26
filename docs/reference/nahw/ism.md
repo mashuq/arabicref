@@ -45,11 +45,11 @@
 
 ## Classification of إسم according to العدد *Number*
 
-1. مُفْرَدٌ *Singular*
+1. [مُفْرَدٌ](/reference/nahw/mufrad/) *Singular*
 
-2. مُثَنَّى *Dual*
+2. [مُثَنَّى](/reference/nahw/muthanna/) *Dual*
 
-3. جَمعُ *Plural*
+3. [جَمعُ](/reference/nahw/jame/) *Plural*
 
 ## Classification of إسم according to النَّكِرَةُ أو الْمَعْرِفَةُ *Definite / Indefiniten*
 

@@ -83,6 +83,15 @@ module.exports = {
                       '/reference/nahw/mudhakkar',
                       '/reference/nahw/muannas',
                     ]
+                  },
+                  {
+                    title: 'جَمعُ أو مُثَنَّى أو مُفْرَدٌ Singular / Dual / Plural',
+                    collapsable: false,
+                    children: [
+                      '/reference/nahw/mufrad',
+                      '/reference/nahw/muthanna',
+                      '/reference/nahw/jame',
+                    ]
                   },                  
                 ],
               }, 
